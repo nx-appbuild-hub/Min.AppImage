@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Min
+Comment=Min is a fast, minimal browser that protects your privacy.
+GenericName=Web Browser
+Exec=AppRun %U
+Icon=min
+Type=Application
+StartupNotify=true
+Categories=Network;WebBrowser;
+MimeType=x-scheme-handler/http;x-scheme-handler/https;text/html;
+
