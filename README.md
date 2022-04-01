@@ -1,1 +1,1 @@
-# Waterfox.AppImage
+# Min.AppImage
